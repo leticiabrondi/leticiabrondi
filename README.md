@@ -105,6 +105,10 @@
 
 ---
 
+![Letícia Brondi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiabrondi&show_icons=true&theme=dracula)
+
+---
+
 <footer>
   <p align="center">Desenvolvido por <strong>Letícia Brondi</strong> 🤍</p>
 </footer>
