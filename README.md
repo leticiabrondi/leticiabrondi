@@ -105,10 +105,6 @@
 
 ---
 
-![Letícia Brondi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiabrondi&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabrondi&layout=donut)](https://github.com/leticiabrondi/github-readme-stats)
----
-
 <footer>
   <p align="center">Desenvolvido por <strong>Letícia Brondi</strong> 🤍</p>
 </footer>
