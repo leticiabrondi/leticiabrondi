@@ -1,110 +1,69 @@
-<h1 align="center"> Hello Devs! 👋</h1>
+<h1 align="center">👋 Olá! Eu sou a Letícia Brondi</h1>
+
+<p align="center">Desenvolvedora em formação com paixão por tecnologia, design e experiências criativas. Aqui você encontra meu currículo digital, projetos e aprendizados! 💻✨</p>
+
+---
+
+### 🧭 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com formação técnica em Multimeios. Tenho interesse em desenvolvimento web, design de interfaces e experiências interativas como jogos.
+
+Curiosa, criativa e focada, estou sempre em busca de aprender mais e contribuir com soluções acessíveis, bonitas e funcionais. Gosto de trabalhar em projetos com propósito e impacto real.
+
+---
+
+### 📌 Projeto principal
+
+- <strong>🌐 Portfólio & Currículo Digital</strong>  
+Meu espaço online onde apresento meus projetos, habilidades, trajetória e identidade visual.  
+👉 <a href="(https://leticiabrondi.github.io/Portifolio/)" target="_blank">Acesse meu portfólio</a>
+
+---
+
+### 💻 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
+</div>
+
+---
+
+### 🛠️ Formação e Certificações
+
+- Análise e Desenvolvimento de Sistemas — IFSP (cursando)  
+- Técnico em Multimeios — Faculdade SESI  
+- Git e GitHub — FGV  
+- Meninas Programadoras — USP  
+- Fundamentos de Design Gráfico — Bradesco  
+
+---
+
+### 🧠 Em constante aprendizado...
+
+Atualmente me aprofundando em estrutura de dados, banco de dados, front-end com foco em UI/UX e versionamento de código. Também prático inglês técnico e exploro ferramentas de design para enriquecer meus projetos.
+
+---
+
+### 🤝 Vamos nos conectar?
 
 <p align="center">
-    Me chamo <strong>Letícia Brondi</strong> e aqui você vai encontrar um pouco sobre mim, minha jornada, meus projetos e tudo o que venho aprendendo. 💡
+  <a href="https://www.linkedin.com/in/leticiabrondi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/leticiabrondi" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:leticia.brondi@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<section >
-  <h3>🧭 Sobre mim</h3>
-
-  <p>
-    Tenho 18 anos, moro em São Paulo e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
-  </p>
-
-  <p>
-    Sempre fui apaixonada por tecnologia, design e experiências que combinam criatividade com lógica. Tenho interesse especial em desenvolvimento web, design de interfaces e desenvolvimento de jogos.
-  </p>
-
-  <p>
-    Procuro sempre aprimorar minhas habilidades técnicas enquanto colaboro em projetos que tenham propósito e impacto. Acredito no poder da comunicação, no aprendizado constante e na construção de soluções acessíveis e eficientes.
-  </p>
-</section>
-
----
-
-<section>
-  <h3>💻 Tecnologias e ferramentas</h3>
-
-  <div class="tech-icons" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
-  </div>
-</section>
-
----
-
-<section >
-  <h3>📖 Cursos e certificações</h3>
-
-  <ul>
-    <li><strong>Análise e Desenvolvimento de Sistemas</strong> — <em>IFSP</em> (em andamento)</li>
-    <li><strong>Ford Enter</strong> — <em>SENAI</em> (em andamento)</li>
-    <li><strong>Curso Técnico em Multimeios</strong> — <em>Faculdade SESI</em></li>
-    <li><strong>Meninas programadoras I e II</strong> — <em>USP</em></li>
-    <li><strong>Git e GitHub</strong> — <em>FGV</em></li>
-    <li><strong>Fundamentos do design gráfico</strong> — <em>Bradesco</em></li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h3>📌 Projetos em destaque</h3>
-
-  <ul>
-    <li>
-      <strong>🧠 Projeto de Empresa Júnior | Suave Mente</strong>
-      <br>
-      Plataforma de apoio socioemocional para alunos do ensino médio da rede SESI. Projeto desenvolvido no curso técnico integrado de Multimeios.
-      <br>
-      Você pode: <a href="https://www.behance.net/leticiabrondi" target="_blank">visualizar no Behance</a> ou <a href="https://suavementeco.github.io/suavemente/" target="_blank">acessar a plataforma</a>!
-    </li>
-  </ul>
-</section>
-
----
-
-<section>
-  <h3>📚 Estudando atualmente</h3>
-
-  <ul>
-    <li>Estrutura de Dados e Algoritmos</li>
-    <li>Desenvolvimento Front-End</li>
-    <li>UI/UX para Desenvolvedores</li>
-    <li>Inglês Técnico</li>
-    <li>Versionamento com Git</li>
-  </ul>
-</section>
-
----
-
-<section class="social-links" align="center">
-  <h3>🤝 Vamos nos conectar?</h3>
-
-  <p>Estou aberta a oportunidades, colaborações e trocas de conhecimento.  
-  Você pode me encontrar por aqui:</p>
-
-  <a href="https://www.linkedin.com/in/leticiabrondi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/leticiabrondi" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-    <a href="mailto:leticia.brondi@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
-    </a>
-
-</section>
-
----
-
-<footer>
-  <p align="center">Desenvolvido por <strong>Letícia Brondi</strong> 🤍</p>
-</footer>
+<p align="center">Feito por <strong>Letícia Brondi</strong></p>
