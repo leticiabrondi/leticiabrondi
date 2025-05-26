@@ -16,7 +16,7 @@ Curiosa, criativa e focada, estou sempre em busca de aprender mais e contribuir 
 
 - <strong>🌐 Portfólio & Currículo Digital</strong>  
 Meu espaço online onde apresento meus projetos, habilidades, trajetória e identidade visual.  
-👉 (https://leticiabrondi.github.io/Portifolio) [Acesse meu portfólio]
+👉 [Acesse meu portfólio](https://leticiabrondi.github.io/Portifolio)
 
 ---
 
