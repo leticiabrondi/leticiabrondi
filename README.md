@@ -37,10 +37,10 @@ Meu espaço online onde apresento meus projetos, habilidades, trajetória e iden
 ### 🛠️ Formação e Certificações
 
 - Análise e Desenvolvimento de Sistemas — IFSP (cursando)  
-- Técnico em Multimeios — Faculdade SESI  
+- Técnico em Multimeios — SESI  
 - Git e GitHub — FGV  
-- Meninas Programadoras — USP  
-- Fundamentos de Design Gráfico — Bradesco  
+- Meninas Programadoras I e II — USP
+- Ford Enter - SENAI  
 
 ---
 
