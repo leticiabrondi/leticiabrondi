@@ -76,11 +76,8 @@ Azure • Git • Photoshop • Illustrator
 
 ---
 
-### 📊 GitHub em números
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiabrondi&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=6A0DAD&icon_color=6A0DAD&text_color=FFFFFF&border_color=6A0DAD&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabrondi&layout=compact&theme=dark&bg_color=0D0D0D&title_color=6A0DAD&text_color=FFFFFF&border_color=6A0DAD&border_radius=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiabrondi&theme=react-dark&bg_color=0D0D0D&color=FFFFFF&line=6A0DAD&point=FF69B4&area=true&hide_border=true&custom_title=Meus%20Commits%20no%20Tempo" width="100%"/>
 </div>
 
 ---
