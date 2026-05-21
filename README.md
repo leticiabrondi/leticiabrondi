@@ -1,69 +1,101 @@
-<h1 align="center">👋 Olá! Eu sou a Letícia Brondi</h1>
-
-<p align="center">Desenvolvedora em formação com paixão por tecnologia, design e experiências criativas. Aqui você encontra meu currículo digital, projetos e aprendizados! 💻✨</p>
-
----
-
-### 🧭 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, com formação técnica em Multimeios. Tenho interesse em desenvolvimento web, design de interfaces e experiências interativas como jogos.
-
-Curiosa, criativa e focada, estou sempre em busca de aprender mais e contribuir com soluções acessíveis, bonitas e funcionais. Gosto de trabalhar em projetos com propósito e impacto real.
-
----
-
-### 📌 Projeto principal
-
-- <strong>🌐 Portfólio & Currículo Digital</strong>  
-Meu espaço online onde apresento meus projetos, habilidades, trajetória e identidade visual.  
-👉 [Acesse meu portfólio](https://leticiabrondi.github.io/Portifolio)
-
----
-
-### 💻 Tecnologias e Ferramentas
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&repeat=false&width=600&lines=Let%C3%ADcia+Brondi" alt="Nome"/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Desenvolvedora%20de%20Intranet-6A0DAD?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-UI%2FUX%20Design-6A0DAD?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Dados%20%26%20IA-6A0DAD?style=flat-square"/>
+  </p>
 </div>
 
 ---
 
-### 🛠️ Formação e Certificações
+### 👋 Sobre mim
 
-- Análise e Desenvolvimento de Sistemas — IFSP (cursando)  
-- Técnico em Multimeios — SESI  
-- Git e GitHub — FGV  
-- Meninas Programadoras I e II — USP
-- Ford Enter - SENAI  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFSP, com formação técnica em **Multimeios** pelo SESI. Atualmente trabalho como **desenvolvedora de intranet no Bradesco**, atuando no portal corporativo interno. Anteriormente, fui **analista de suporte na TDS Informática**, dando suporte técnico aos correspondentes bancários do Bradesco.
+
+🎯 Minha paixão é criar soluções que unem **código limpo**, **design intuitivo** e **impacto real**.
 
 ---
 
-### 🧠 Em constante aprendizado...
+### 💼 Experiência
 
-Atualmente me aprofundando em estrutura de dados, banco de dados, front-end com foco em UI/UX e versionamento de código. Também prático inglês técnico e exploro ferramentas de design para enriquecer meus projetos.
+| Empresa | Cargo (Estágio) | Atuação |
+|---------|-------|---------|
+| **Bradesco** | Desenvolvedora de Intranet | Desenvolvimento e manutenção do portal corporativo interno |
+| **TDS Informática** | Analista de Suporte (Help Desk) | Suporte técnico aos correspondentes bancários do Bradesco |
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** — IFSP *(cursando)*
+- **Técnico em Multimeios** — SESI
+
+---
+
+### 📜 Certificações e Cursos
+
+| Curso | Instituição |
+|-------|-------------|
+| Engenharia de Prompt para Engenheiros de Software | USP |
+| Introdução ao Machine Learning com Python | USP |
+| Implementação em Big Data | SENAI |
+| Programação em Inteligência Artificial Generativa | SENAI |
+| Meninas Programadoras I e II | USP |
+| Ford Enter | SENAI |
+
+---
+
+### 🛠️ Tecnologias
+
+**Front-end**
+```
+HTML5 • CSS3 • JavaScript
+```
+
+**Back-end & Banco de Dados**
+```
+Python • Java • C • SQL Server • MySQL
+```
+
+**Dados, IA & Big Data**
+```
+Pandas • NumPy • Jupyter • Apache Spark • PySpark • Power BI
+```
+
+**Cloud & Ferramentas**
+```
+Azure • Git • Photoshop • Illustrator
+```
+
+---
+
+### 🌟 Projeto em destaque
+
+> **[📌 Portfólio & Currículo Digital](https://leticiabrondi.github.io/Portifolio)** — Meu espaço online onde apresento projetos, habilidades e trajetória.
+
+---
+
+### 📊 GitHub em números
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiabrondi&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=6A0DAD&icon_color=6A0DAD&text_color=FFFFFF&border_color=6A0DAD&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabrondi&layout=compact&theme=dark&bg_color=0D0D0D&title_color=6A0DAD&text_color=FFFFFF&border_color=6A0DAD&border_radius=10"/>
+</div>
 
 ---
 
 ### 🤝 Vamos nos conectar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leticiabrondi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.behance.net/leticiabrondi" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="mailto:leticia.brondi@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/leticiabrondi"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/leticiabrondi"><img src="https://img.shields.io/badge/Behance-6A0DAD?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="mailto:leticia.brondi@outlook.com"><img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://leticiabrondi.github.io/Portifolio"><img src="https://img.shields.io/badge/Portfólio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">Feito por <strong>Letícia Brondi</strong></p>
+<div align="center">
+  <sub>Feito com 💜 por Letícia Brondi</sub>
+</div>
