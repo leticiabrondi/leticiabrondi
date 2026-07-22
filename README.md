@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&repeat=false&width=600&lines=Let%C3%ADcia+Brondi" alt="Nome"/>
   <p align="center">
-    <img src="https://img.shields.io/badge/-Desenvolvedora%20de%20Intranet-6A0DAD?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Desenvolvedora%20Full%20Stack-6A0DAD?style=flat-square"/>
     <img src="https://img.shields.io/badge/-UI%2FUX%20Design-6A0DAD?style=flat-square"/>
     <img src="https://img.shields.io/badge/-Dados%20%26%20IA-6A0DAD?style=flat-square"/>
   </p>
@@ -11,9 +11,18 @@
 
 ### 👋 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFSP, com formação técnica em **Multimeios** pelo SESI. Atualmente trabalho como **desenvolvedora de intranet no Bradesco**, atuando no portal corporativo interno. Anteriormente, fui **analista de suporte na TDS Informática**, dando suporte técnico aos correspondentes bancários do Bradesco.
+Sou estudante do 4º semestre de **Análise e Desenvolvimento de Sistemas** no IFSP (com iniciação científica em andamento) e formação técnica em **Multimeios** pelo SESI. Atualmente trabalho como **desenvolvedora de intranet no Bradesco**, atuando no portal corporativo interno. Anteriormente, fui **analista de suporte na TDS Informática**, dando suporte técnico aos correspondentes bancários do Bradesco.
 
-🎯 Minha paixão é criar soluções que unem **código limpo**, **design intuitivo** e **impacto real**.
+🎯 Minha paixão é criar soluções que unem **código limpo**, **engenharia de software**, **design intuitivo** e **impacto real**.
+
+---
+
+### 🌟 Projetos em Destaque
+
+> 🚀 **[RunSemestre](https://github.com/leticiabrondi/RunSemestre)** — *Plataforma de gestão acadêmica pessoal e iniciação científica com tema noturno e motor dinâmico de notas.*  
+> **Stack:** .NET 8 Web API • Entity Framework Core • React • TypeScript • Azure SQL Database
+
+> 📌 **[Portfólio & Currículo Digital](https://leticiabrondi.github.io/Portifolio)** — *Meu espaço online onde apresento meus projetos, habilidades e trajetória profissional.*
 
 ---
 
@@ -28,7 +37,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFSP, com formaç
 
 ### 🎓 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** — IFSP *(cursando)*
+- **Análise e Desenvolvimento de Sistemas** — IFSP *(cursando — 4º Semestre)*  
+  ↳ *Pesquisadora de Iniciação Científica*
 - **Técnico em Multimeios** — SESI
 
 ---
@@ -48,31 +58,37 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFSP, com formaç
 
 ### 🛠️ Tecnologias
 
-**Front-end**
+**Front-end & UI/UX**
+
 ```
-HTML5 • CSS3 • JavaScript
+
+React • TypeScript • HTML5 • CSS3 • JavaScript • Tailwind CSS • Figma
+
 ```
 
 **Back-end & Banco de Dados**
+
 ```
-Python • Java • C • SQL Server • MySQL
+
+.NET 8 • C# • Entity Framework Core • Python • Java • C • SQL Server • MySQL • Azure SQL
+
 ```
 
 **Dados, IA & Big Data**
+
 ```
+
 Pandas • NumPy • Jupyter • Apache Spark • PySpark • Power BI
+
 ```
 
 **Cloud & Ferramentas**
+
 ```
-Azure • Git • Photoshop • Illustrator
+
+Azure • Git • Swagger/OpenAPI • Photoshop • Illustrator
+
 ```
-
----
-
-### 🌟 Projeto em destaque
-
-> **[📌 Portfólio & Currículo Digital](https://leticiabrondi.github.io/Portifolio)** — Meu espaço online onde apresento projetos, habilidades e trajetória.
 
 ---
 
