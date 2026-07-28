@@ -19,7 +19,7 @@ Sou estudante do 4º semestre de **Análise e Desenvolvimento de Sistemas** no I
 
 ### 🌟 Projetos em Destaque
 
-> 🚀 **[RunSemestre](https://github.com/leticiabrondi/RunSemestre)** — *Plataforma de gestão acadêmica pessoal e iniciação científica com tema noturno e motor dinâmico de notas.*  
+> 🚀 **[RunSemester](https://github.com/leticiabrondi/RunSemester)** — *Plataforma de gestão acadêmica pessoal e iniciação científica com tema noturno e motor dinâmico de notas.*  
 > **Stack:** .NET 8 Web API • Entity Framework Core • React • TypeScript • Azure SQL Database
 
 > 📌 **[Portfólio & Currículo Digital](https://leticiabrondi.github.io/Portifolio)** — *Meu espaço online onde apresento meus projetos, habilidades e trajetória profissional.*
@@ -70,7 +70,7 @@ React • TypeScript • HTML5 • CSS3 • JavaScript • Tailwind CSS • Figm
 
 ```
 
-.NET 8 • C# • Entity Framework Core • Python • Java • C • SQL Server • MySQL • Azure SQL
+.NET 8 • C# • Entity Framework Core • Python • Flask • Java • C • SQL Server • MySQL • Azure SQL
 
 ```
 
